@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <!--<outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible?" />-->
+      <!--<outline type="rss" text="Alice Isn't Dead" xmlUrl="http://aliceisntdead.libsyn.com/rss" />-->
+      <!--<outline type="rss" text="Beautiful Stories From Anonymous People" xmlUrl="http://rss.earwolf.com/beautiful-anonymous" />-->
+      <!--<outline type="rss" text="Codebreaker, by Marketplace and Tech Insider" xmlUrl="http://feeds.feedburner.com/CodebreakerByMarketplaceAndTechInsider" />-->
+      <!--<outline type="rss" text="Death, Sex &amp; Money" xmlUrl="http://feeds.feedburner.com/deathsexmoney" />-->
+      <!--<outline type="rss" text="Embedded" xmlUrl="http://www.npr.org/rss/podcast.php?id=510311" />-->
+      <!--<outline type="rss" text="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" />-->
+      <!--<outline type="rss" text="Geek Fit" xmlUrl="http://brainiak.fm/shows/geekfit/feed/" />-->
+      <!--<outline type="rss" text="Hardwell On Air Official Podcast" xmlUrl="http://podcast.djhardwell.com/podcast.xml" />-->
+      <!--<outline type="rss" text="How To Do Everything" xmlUrl="http://www.npr.org/rss/podcast.php?id=510303&amp;" />-->
+      <!--<outline type="rss" text="Invisibilia" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" />-->
+      <!--<outline type="rss" text="Longform" xmlUrl="http://longform.libsyn.com/rss" />-->
+      <!--<outline type="rss" text="Mystery Show" xmlUrl="HTTP://Feeds.gimletmedia.com/mysteryshow" />-->
+      <!--<outline type="rss" text="Myths and Legends" xmlUrl="http://mythpodcast.libsyn.com/rss?feed=podcast" />-->
+      <!--<outline type="rss" text="Note to Self" xmlUrl="http://feeds.wnyc.org/notetoself-podcast" />-->
+      <!--<outline type="rss" text="Planet Money" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" />-->
+      <!--<outline type="rss" text="Radio Diaries" xmlUrl="http://feed.radiodiaries.org/radio-diaries?id=510288" />-->
+      <!--<outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />-->
+      <outline type="rss" text="Re:sound" xmlUrl="http://rss.acast.com/tciafpodcast" />
+      <!--<outline type="rss" text="Reply All" xmlUrl="HTTP://Feeds.gimletmedia.com/hearreplyall" />-->
+      <!--<outline type="rss" text="Sampler" xmlUrl="http://feeds.gimletmedia.com/samplershow" />-->
+      <!--<outline type="rss" text="Science Vs" xmlUrl="http://feeds.gimletmedia.com/sciencevs" />-->
+      <!--<outline type="rss" text="Snap Judgment" xmlUrl="http://feeds.wnyc.org/snapjudgment-wnyc" />-->
+      <!--<outline type="rss" text="StoryCorps" xmlUrl="http://www.npr.org/rss/podcast.php?id=510200" />-->
+      <!--<outline type="rss" text="Stuff Mom Never Told You" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-mom-never-told-you.rss" />-->
+      <!--<outline type="rss" text="The Art of Manliness" xmlUrl="http://feeds.feedburner.com/artofmanlinesspodcast" />-->
+      <!--<outline type="rss" text="The Birdhouse featuring Claude VonStroke" xmlUrl="http://birdhousecvs.podomatic.com/rss2.xml" />-->
+      <!--<outline type="rss" text="The Moth Podcast" xmlUrl="http://feeds.feedburner.com/themothpodcast" />-->
+      <!--<outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />-->
+    </outline>
+  </body>
+</opml>

@@ -5,8 +5,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Ali Karbass <ali@karbassi.com>",
-  "license": "MIR"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "moment": "^2.13.0",
+    "node-opml-parser": "^1.0.0",
+    "node-podcast-parser": "^1.0.1",
+    "request": "^2.72.0"
+  }
 }
